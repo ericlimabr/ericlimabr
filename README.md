@@ -11,9 +11,12 @@
 <!-- GITHUB STATUS -->
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericbraz&layout=compact&langs_count=10&theme=dark"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericlimabr&layout=compact&langs_count=10&theme=dark"/> -->
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ericlimabr&theme=tokyonight)
 </div>
 
 <br>
